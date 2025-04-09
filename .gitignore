@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Environment variables
+config/.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency lock files (optional, only if you don't want them tracked)
+# Comment this out if you want to keep lock file for consistency across environments
