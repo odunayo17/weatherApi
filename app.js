@@ -42,6 +42,5 @@ app.get('/weather', async (req, res) => {
 // Start the server
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
-    console.log('API Key:', API_KEY); // This should print your actual API key
 
 });
